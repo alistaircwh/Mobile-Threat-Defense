@@ -15,8 +15,8 @@ export default function Hero() {
           </div>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight tracking-tight mb-6">
-            Your phone is already a target.{" "}
-            <span className="text-primary">One scan changes that.</span>
+            Everything important is on your phone.{" "}
+            <span className="text-primary">Make sure only you can access it.</span>
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-8 max-w-2xl">
